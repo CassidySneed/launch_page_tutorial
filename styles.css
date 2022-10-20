@@ -1,0 +1,30 @@
+.navbar {
+    padding: 1rem;
+  }
+
+.btn-secondary:hover {
+    background-color: pink;
+    color: white;
+}
+
+.hero {
+    background-image: url("ocean.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px; 
+    /* top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    opacity: 0.5; Tone the image down further by giving it transparency */
+    /* I tried toning it down but I prefered it without tone */
+  } 
+
+
+
+
+ 
+  
